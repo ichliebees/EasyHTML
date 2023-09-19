@@ -1,0 +1,93 @@
+body {
+    background-color: #222;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    font-family: cursive;
+}
+
+.large-card {
+    width: 300px;
+}
+
+.small-card {
+    width: 150px;
+}
+
+.text, .text-small, .custom-input, .card, .space, .custom-btn {
+    margin: 10px;
+}
+
+.text, .text-small {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: color 0.3s ease, text-shadow 0.3s ease, transform 0.3s ease;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #444;
+    display: inline-block;
+}
+
+.text:hover, .text-small:hover {
+    color: #ffcc00;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+    transform: scale(1.05);
+}
+
+input.custom-input {
+    padding: 12px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    background-color: #555;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+input.custom-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.7);
+    transform: scale(1.02);
+}
+
+.card {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.custom-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.custom-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
