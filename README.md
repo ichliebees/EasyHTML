@@ -4,13 +4,13 @@
 **Copy This Code Into Your Html Body Tag 1️⃣:**
 
 ```html
-    <script src="[https://cdn.jsdelivr.net/gh/whatasave/EasyHTML@main/EasyHTMLv2.js](https://cdn.jsdelivr.net/gh/wapy69/EasyHTML@main/EasyHTMLv3.js)"></script>
+    <script src="https://cdn.jsdelivr.net/gh/wapy69/EasyHTML@main/EasyHTMLv3.js"></script>
 ```
 
 **Copy This Code Into Your Html Head Tag 2️⃣:**
 
 ```html
-    <link rel="stylesheet" href="[https://cdn.jsdelivr.net/gh/whatasave/EasyHTML@main/EasyHTMLstylev2.css](https://cdn.jsdelivr.net/gh/wapy69/EasyHTML@main/EasyHTMLstylev3.css)">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wapy69/EasyHTML@main/EasyHTMLstylev3.css">
 ```
 
 
