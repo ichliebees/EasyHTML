@@ -1,16 +1,16 @@
-# EasyHTML installation phase 🚀 "v2"
-`Latest Update : September 20, 2023`
+# EasyHTML installation phase 🚀 "v3"
+`Latest Update : : Saturday. September 23, 2023. 09/23/2023.`
 
 **Copy This Code Into Your Html Body Tag 1️⃣:**
 
 ```html
-    <script src="https://cdn.jsdelivr.net/gh/whatasave/EasyHTML@main/EasyHTMLv2.js"></script>
+    <script src="[https://cdn.jsdelivr.net/gh/whatasave/EasyHTML@main/EasyHTMLv2.js](https://cdn.jsdelivr.net/gh/wapy69/EasyHTML@main/EasyHTMLv3.js)"></script>
 ```
 
 **Copy This Code Into Your Html Head Tag 2️⃣:**
 
 ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/whatasave/EasyHTML@main/EasyHTMLstylev2.css">
+    <link rel="stylesheet" href="[https://cdn.jsdelivr.net/gh/whatasave/EasyHTML@main/EasyHTMLstylev2.css](https://cdn.jsdelivr.net/gh/wapy69/EasyHTML@main/EasyHTMLstylev3.css)">
 ```
 
 
@@ -68,4 +68,23 @@
 # Elements
 </div>
 </box>
+```
+**Creating a page footer or contact card:** 💻
+```
+<footer>
 
+</footer>
+```
+
+**For Creating Footer Links** 🌐
+```
+<footer-link>
+# Text Goes Here
+</footer-link>
+```
+
+**To Create A Checkbox** ✅
+```
+<checkbox>
+</chedckbox>
+```
