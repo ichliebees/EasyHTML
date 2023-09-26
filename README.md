@@ -96,7 +96,7 @@
 # Screenshots
 
 **<footer></footer> Element With <checkbox></checkbox> Looks Like :**
-![image](https://github.com/wapy69/EasyHTML/assets/138697155/0e79a5b4-01fe-4676-b739-333eb241fda0)
+<img src="https://github.com/wapy69/EasyHTML/assets/138697155/0e79a5b4-01fe-4676-b739-333eb241fda0">
 
 
 **<h1></h1> Element :**
