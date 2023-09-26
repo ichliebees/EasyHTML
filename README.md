@@ -83,8 +83,30 @@
 </footer-link>
 ```
 
+
 **To Create A Checkbox** ✅
 ```
 <checkbox>
-</chedckbox>
+</checkbox>
 ```
+
+
+
+
+# Screenshots
+
+**<footer></footer> Element With <checkbox></checkbox> Looks Like :**
+![image](https://github.com/wapy69/EasyHTML/assets/138697155/0e79a5b4-01fe-4676-b739-333eb241fda0)
+
+
+**<h1></h1> Element :**
+![image](https://github.com/wapy69/EasyHTML/assets/138697155/33f0cd32-12cc-4c7f-aa50-96692604c890)
+
+**<box> with <h3>, <in> and <btn>**
+![image](https://github.com/wapy69/EasyHTML/assets/138697155/36a1b903-75b8-4d7c-b474-164737664025)
+
+
+**<navbar> with links using class navbar-links**
+![image](https://github.com/wapy69/EasyHTML/assets/138697155/0c28ae9b-b2e1-424e-a77c-bb7a784b2b14)
+
+
